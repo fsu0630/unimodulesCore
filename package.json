@@ -19,15 +19,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/expo/expo.git",
-    "directory": "packages/@unimodules/core"
+    "url": "https://github.com/fsujob1984/unimodulesCore.git"
+    
   },
   "bugs": {
-    "url": "https://github.com/expo/expo/issues"
+    "url": "https://github.com/fsujob1984/unimodulesCore/issues"
   },
   "author": "650 Industries, Inc.",
   "license": "MIT",
-  "homepage": "https://github.com/expo/expo/tree/master/packages/@unimodules/core",
+  "homepage": "https://github.com/fsujob1984/unimodulesCore",
   "jest": {
     "preset": "expo-module-scripts/ios"
   },
